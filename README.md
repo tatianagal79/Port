@@ -28,10 +28,10 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-> <a href="https://testqa35.atlassian.net/wiki/spaces/MP/pages/33272/EX1+1">Ссылка на проект</a>
+> <a href="">https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19922959?draftShareId=3d72b2a2-2b2d-41e0-bef7-a98a06073638&inEditorTemplatesPanel=auto_closed</a>
    (ссылка должна содержать демонстративные материалы: скриншоты, таблички, запросы, код. Работодатель должен иметь возможность быстро посмотреть результаты работы)
-> <p> логин: dehico8286@fsouda.com </p>
-> <p> пароль: 16Jan2023 </p>
+> <p> логин: tatianagalitskaia79@gmail.com </p>
+> <p> пароль: Tan745gen </p>
 
 <p>Выводы (итоги):<p>
 <ol>
