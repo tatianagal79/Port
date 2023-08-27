@@ -29,7 +29,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
 <a href="https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19922959?draftShareId=3d72b2a2-2b2d-41e0-bef7-a98a06073638">Ссылка на проект</a>
-> <p> логин: tatianagalitskaia79@gmail.com"> </p>
+> <p> логин: tatianagalitskaia79@gmail.com> </p>
 > <p> пароль: Tan745gen </p>
 
 <p>Выводы (итоги):<p>
@@ -52,7 +52,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)</p>
 
 >  <a href="https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19890202?draftShareId=9c32e71a-ec57-4ccd-971e-bee92ee7e7a1&inEditorTemplatesPanel=auto_closed">Ссылка на проект</a>
-> <p> логин: tatianagalitskaia79@gmail.com"> </p>
+> <p> логин: tatianagalitskaia79@gmail.com> </p>
 > <p> пароль: Tan745gen </p>
 
 
@@ -62,7 +62,7 @@
   </ol>
 <br> 
 
-<p> Проект 3: тест приложения Skyeng для изучения английского языка</p>
+<p> Проект 3: тест приложения расписания для учителей Skyeng</p>
 <p>Что нужно было сделать:<p>
 <ol>
   <li>сделать тест-план </li>
@@ -75,7 +75,7 @@
 <p>Как решала(-а): краткое описание решения (автореферат)</p>
 
 > <a href="https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19890238?draftShareId=a9031006-5c6c-4869-ae10-4f481e5ed412&inEditorTemplatesPanel=auto_closed">Ссылка на проект</a>
-> <p> логин: tatianagalitskaia79@gmail.com"> </p>
+> <p> логин: tatianagalitskaia79@gmail.com> </p>
 > <p> пароль: Tan745gen </p>
 
 <p>Выводы (итоги):<p>
@@ -91,6 +91,5 @@
 
 
 ## Контактная информация
-- Email: name@email.com
-- LinkedIn: https://www.linkedin.com/in/username/
-- Личный сайт: https://www.username.com
+- Email: tatianagalitskaia79@gmail.com
+
