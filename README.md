@@ -1,4 +1,7 @@
-# Портфолио: инженер по тестированию
+# Портфолио: инженер по тестированию   
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif?cid=ecf05e47gemoncqx8m8hb5o7fum9u7or4rsilyu91nktw2sx&ep=v1_gifs_related&rid=giphy.gif&ct=s"/>
+</div>
 ## Обо мне 
 Привет! Меня зовут ``Татьяна Галицкая``, я начинающий тестировщик. <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
