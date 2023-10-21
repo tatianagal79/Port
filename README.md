@@ -50,9 +50,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)</p>
 
->  <a href="https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19890202?draftShareId=9c32e71a-ec57-4ccd-971e-bee92ee7e7a1&inEditorTemplatesPanel=auto_closed">Ссылка на проект</a>
-> <p> логин: tatianagalitskaia79@gmail.com </p>
-> <p> пароль: Tan745gen </p>
+>  <a href="https://docs.google.com/document/d/17PwsIv6Mxsz1hKsqiOKirEZUBgW4at_dyH6kcs4J1NU/edit?usp=sharing">Ссылка на проект</a>
 
 
 <p>Выводы (итоги):<p>
