@@ -28,7 +28,7 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-<a href="https://docs.google.com/document/d/1PfX636Lp5Rbz2pLR-fewdDoCeOFj_vOhJ_RhINv_54U/edit?usp=sharing">Ссылка на проект</a>
+>  <a href="https://docs.google.com/document/d/1PfX636Lp5Rbz2pLR-fewdDoCeOFj_vOhJ_RhINv_54U/edit?usp=sharing">Ссылка на проект</a>
 
 
 <p>Выводы (итоги):<p>
