@@ -28,9 +28,8 @@
 
 <p>Как решала(-а): краткое описание решения (автореферат)<p>
 
-<a href="https://tatiana2.atlassian.net/wiki/spaces/~634d0dbe7d4645af4fff62ea/pages/edit-v2/19922959?draftShareId=3d72b2a2-2b2d-41e0-bef7-a98a06073638">Ссылка на проект</a>
-> <p> логин: tatianagalitskaia79@gmail.com </p>
-> <p> пароль: Tan745gen </p>
+<a href="https://docs.google.com/document/d/1PfX636Lp5Rbz2pLR-fewdDoCeOFj_vOhJ_RhINv_54U/edit?usp=sharing">Ссылка на проект</a>
+
 
 <p>Выводы (итоги):<p>
 <ol>
